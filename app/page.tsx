@@ -8,7 +8,6 @@ import { AboutSection } from "@/components/about-section";
 import { ProjectsSection } from "@/components/projects-section";
 import { ReviewsSection } from "@/components/reviews-section";
 import { Footer } from "@/components/footer";
-import "./globals.css";
 
 export default function HomePage() {
   return (
