@@ -44,6 +44,24 @@ const teamMembers = [
     liveUrl: "",
     githubUrl: "",
   },
+  {
+    name: "Ankit Biswal",
+    role: "Backend Developer",
+    bio: "Backend developer passionate about building scalable and efficient backend systems using Java and Spring Boot.",
+    image: "/ankit.jpeg",
+    skills: ["Java", "Spring Boot", "Backend Development", "Microservices"],
+    liveUrl: "",
+    githubUrl: "",
+  },
+  {
+    name: "Param Jyoti Patra",
+    role: "Customer Service Representative & Project Manager",
+    bio: "An Excellent problem solver with a keen eye for detail, with a strong background in project management and customer service.",
+    image: "/param.jpeg",
+    skills: ["Customer Service", "Project Management"],
+    liveUrl: "",
+    githubUrl: "",
+  },
 ];
 
 export function AboutSection() {
